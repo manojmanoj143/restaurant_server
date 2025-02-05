@@ -9,7 +9,7 @@
     "routes": [
       {
         "src": "/files/(.*)",
-        "dest": "/public/files/$1"
+        "dest": "/files/$1"
       },
       {
         "src": "/(.*)",
