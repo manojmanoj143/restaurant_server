@@ -1,0 +1,51 @@
+[
+    {
+      "customerId": "679a03acc395cc895670144e",
+      "paymentMode": "Cash",
+      "totalAmount": 450,
+      "createdAt": "2025-01-29T11:57:18.281+00:00"
+    },
+    {
+      "customerId": "6795f6dfe3db888060cf5b2e",
+      "paymentMode": "Cash",
+      "totalAmount": 240,
+      "createdAt": "2025-01-29T11:57:28.962+00:00"
+    },
+    {
+      "customerId": "679a03acc395cc895670144e",
+      "paymentMode": "UPI",
+      "totalAmount": 900,
+      "createdAt": "2025-01-29T11:57:43.738+00:00"
+    },
+    {
+      "customerId": "6799f572c97d3f02f130f4e9",
+      "paymentMode": "Card",
+      "totalAmount": 350,
+      "createdAt": "2025-01-29T11:57:55.072+00:00"
+    },
+    {
+      "customerId": "679a03acc395cc895670144e",
+      "paymentMode": "Cash",
+      "totalAmount": 550,
+      "createdAt": "2025-01-30T12:01:12.115+00:00"
+    },
+    {
+      "customerId": "6799f572c97d3f02f130f4e9",
+      "paymentMode": "UPI",
+      "totalAmount": 1200,
+      "createdAt": "2025-01-30T12:05:30.219+00:00"
+    },
+    {
+      "customerId": "679a03acc395cc895670144e",
+      "paymentMode": "Card",
+      "totalAmount": 300,
+      "createdAt": "2025-02-01T10:10:00.123+00:00"
+    },
+    {
+      "customerId": "6795f6dfe3db888060cf5b2e",
+      "paymentMode": "Cash",
+      "totalAmount": 400,
+      "createdAt": "2025-02-01T10:20:10.456+00:00"
+    }
+  ]
+  

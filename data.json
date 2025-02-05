@@ -1,0 +1,109 @@
+[
+  {
+    "item_code": "Chicken Burger",
+    "item_name": "Chicken Burger",
+    "item_group": "Burger",
+    "image": "classic cheese.webp",
+    "valuation_rate": 150,
+    "name": "Chicken Burger",
+    "custom_addon_applicable": 1,
+    "custom_combo_applicable": 1,
+    "custom_total_calories": 60,
+    "custom_total_protein": 37,
+    "addons": [
+      {
+        "addon_name": "Patty",
+        "addon_price": 50
+      },
+      {
+        "addon_name": "Cheese",
+        "addon_price": 30
+      }
+    ],
+    "combos": [
+      {
+        "combo_name": "Combo 1",
+        "combo_price": 180
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_name": "Chicken",
+        "ingredient_quantity": "100g"
+      },
+      {
+        "ingredient_name": "Lettuce",
+        "ingredient_quantity": "50g"
+      }
+    ]
+  },
+  {
+    "item_code": "Beef Burger",
+    "item_name": "Beef Burger",
+    "item_group": "Burger",
+    "image": "Black Bean.jpg",
+    "valuation_rate": 200,
+    "name": "Beef Burger",
+    "custom_addon_applicable": 0,
+    "custom_combo_applicable": 0,
+    "custom_total_calories": 0,
+    "custom_total_protein": 0,
+    "addons": [],
+    "combos": [],
+    "ingredients": [
+      {
+        "ingredient_name": "Beef Patty",
+        "ingredient_quantity": "150g"
+      },
+      {
+        "ingredient_name": "Cheese",
+        "ingredient_quantity": "1 slice"
+      }
+    ]
+  },
+  {
+    "item_code": "Cola",
+    "item_name": "Cola",
+    "item_group": "Combos",
+    "image": "Cola.jpeg",
+    "valuation_rate": 80,
+    "name": "Cola",
+    "custom_addon_applicable": 0,
+    "custom_combo_applicable": 0,
+    "custom_total_calories": 0,
+    "custom_total_protein": 0,
+    "addons": [],
+    "combos": [],
+    "ingredients": []
+  },
+  {
+    "item_code": "Patty",
+    "item_name": "Patty",
+    "item_group": "Addons",
+    "image": "Extra Patty.webp",
+    "valuation_rate": 50,
+    "name": "Patty",
+    "custom_addon_applicable": 0,
+    "custom_combo_applicable": 0,
+    "custom_total_calories": 0,
+    "custom_total_protein": 0,
+    "addons": [],
+    "combos": [],
+    "ingredients": []
+  },
+  {
+    "item_code": "001",
+    "item_name": "Chicken Biriyani",
+    "item_group": "Biriyani",
+    "image": "chicken-hyderabadi-biryani-01.jpg",
+    "valuation_rate": 150,
+    "name": "Chicken Biriyani",
+    "custom_addon_applicable": 0,
+    "custom_combo_applicable": 0,
+    "custom_total_calories": 0,
+    "custom_total_protein": 0,
+    "addons": [],
+    "combos": [],
+    "ingredients": []
+  }
+]
